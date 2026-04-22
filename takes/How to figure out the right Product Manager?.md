@@ -1,3 +1,12 @@
+---
+title: How to figure out the right Product Manager?
+type: take
+tags: []
+date:
+  "{ date:YYYY-MM-DD }":
+substack_url:
+published: false
+---
 Product management is one of those capabilities that can make or break the greatness of a product. They provide the umbrella under which different capabilities like engineering, design, operations, marketing, sales, leadership etc., can come together. But product management is such a fluid role, that it’s difficult to know who can be a good PM and who wouldn’t. Over a period of time, I have developed my own mental model and this is my attempt to put my thoughts on paper.
 Before we jump in, let’s set some measurement. I will assign a number of 1-4 (1 being lesser and 4 being the highest) in terms of capability in a particular competency. 
 Secondly, I am not going assume that any product manager will be known by both their strategy and execution capabilities. A product manager who only does strategy will have no impact to showcase, while a pure execution PM is no different from a consultant.
