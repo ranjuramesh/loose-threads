@@ -1,3 +1,14 @@
+---
+title: "Product Sphere — 22 April 2026"
+type: signal
+source_title: "Stanford AI Index 2026"
+source_url: https://hai.stanford.edu/ai-index/2026-ai-index-report
+source_type: article
+tags: [Stanford AI Index, AI Strategy, MCP, Apple, Agents]
+date: 2026-04-22
+published: true
+---
+
 #### 🏆 The Big Story: Stanford AI Index 2026 Drops
 
 This is the must-read of the week. The data cuts through the noise on every major AI debate.

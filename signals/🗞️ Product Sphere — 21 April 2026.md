@@ -1,3 +1,11 @@
+---
+title: "Product Sphere — 21 April 2026"
+type: signal
+source_type: article
+tags: [AI, LLM, Product Management, Agents, Claude Code]
+date: 2026-04-21
+published: true
+---
 
 #### The AI model wars are at peak intensity. 
 The current flagship models as of early April are GPT-5.4 Thinking (OpenAI), Claude Sonnet 4.6 (Anthropic), Gemini 3.1 Pro (Google), and Grok 4.20 Beta 2 (xAI) ￼ — with more releases expected before month-end. The strategic insight: companies that win won’t be using the best model — they’ll be the ones with the cleanest model abstraction layer and the fastest eval cycle. ￼
