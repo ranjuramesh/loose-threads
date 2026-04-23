@@ -4,8 +4,8 @@ type: take
 tags: []
 date:
   "{ date:YYYY-MM-DD }":
-substack_url:
-published: false
+substack_url: https://ranjuramesh.substack.com/p/courage
+published: true
 ---
 
 "Everyone wants to be successful" - This statement is one of the universal truths for me with all the connotations involved. I would like to explore this further more atomically, but for now, let's stick to this. Every action of ours is towards being successful. There might be difference with direction or magnitude, but I would say this is a truthful statement. Personally, I am obsessed with courage. It comes from the fact that I believe I am not a very courageous person. So I have researching about courage for a long time and it has led to many nooks and crannies. This led me to read a lot and listen to lot of podcasts. But everything I did, still led my obsession to increase rather than decrease.
