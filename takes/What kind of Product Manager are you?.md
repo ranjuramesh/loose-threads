@@ -1,5 +1,5 @@
 ---
-title: How to figure out the right Product Manager?
+title: What kind of Product Manager are you?
 type: take
 tags: []
 date:
