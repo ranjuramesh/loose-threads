@@ -8,10 +8,3 @@ tags: []
 date: {{date:YYYY-MM-DD}}
 published: false
 ---
-
-## 3 Key Points
-- 
-- 
-- 
-
-## My Take
