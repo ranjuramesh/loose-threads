@@ -5,8 +5,8 @@ tags:
   - data
 date:
   "{ date:YYYY-MM-DD }":
-substack_url:
-published: false
+substack_url: https://ranjuramesh.substack.com/p/lets-talk-data-schema-evolution?r=1ezh6x
+published: true
 ---
 Schema Evolution is one of the core data problems and it has been around since the first database got built. It starts as simple as dealing with a table column being dropped to as complex as a reference schemas being changed in a schema registry. But the fundamental problem statement is - "Something changed in the source and now there is a need to make sure the data pipelines are able to deal with it."
 

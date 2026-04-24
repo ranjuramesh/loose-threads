@@ -5,8 +5,8 @@ tags:
   - data
 date:
   "{ date:YYYY-MM-DD }":
-substack_url:
-published: false
+substack_url: https://ranjuramesh.substack.com/p/needs-and-wants-of-a-data-team?r=1ezh6x
+published: true
 ---
 The data teams of today operate by stitching together tools that is supposed to deliver the data outcomes. With the entire unbundling movement of data stack (https://roundup.getdbt.com/p/bundled-or-unbundled-data-stack - A good article detailing the unbundling movement of data stack), in the last decade of an explosion in the number of data tools has happened. For me, this explosion was fascinating, as this was the data people’s opportunity to do what other people did with “craig’s list”. 
 
