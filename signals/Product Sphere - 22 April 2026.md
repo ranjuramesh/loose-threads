@@ -1,10 +1,15 @@
 ---
-title: "Product Sphere — 22 April 2026"
+title: Product Sphere - 22 April 2026
 type: signal
-source_title: "Stanford AI Index 2026"
+source_title: Stanford AI Index 2026
 source_url: https://hai.stanford.edu/ai-index/2026-ai-index-report
 source_type: article
-tags: [Stanford AI Index, AI Strategy, MCP, Apple, Agents]
+tags:
+  - Stanford AI Index
+  - AI Strategy
+  - MCP
+  - Apple
+  - Agents
 date: 2026-04-22
 published: true
 ---

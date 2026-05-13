@@ -1,8 +1,13 @@
 ---
-title: "Product Sphere — 21 April 2026"
+title: Product Sphere - 21 April 2026
 type: signal
 source_type: article
-tags: [AI, LLM, Product Management, Agents, Claude Code]
+tags:
+  - AI
+  - LLM
+  - Product Management
+  - Agents
+  - Claude Code
 date: 2026-04-21
 published: true
 ---
